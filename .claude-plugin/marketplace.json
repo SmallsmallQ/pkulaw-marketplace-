@@ -10,7 +10,7 @@
         {
             "name": "pkulaw",
             "description": "北大法宝插件",
-            "source": "https://github.com/SmallsmallQ/pkulaw.git"
+            "source": "./pkulaw"
         }
     ]
 }
