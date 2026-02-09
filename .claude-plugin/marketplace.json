@@ -1,0 +1,16 @@
+{
+    "name": "pkulaw-marketplace",
+    "description": "PKULaw plugin marketplace",
+    "contactEmail": "support@example.com",
+    "owner": {
+        "name": "PKU Law Team",
+        "email": "support@example.com"
+    },
+    "plugins": [
+        {
+            "name": "pkulaw",
+            "description": "北大法宝插件",
+            "source": "SmallsmallQ/pkulaw"
+        }
+    ]
+}
